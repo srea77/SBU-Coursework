@@ -1,0 +1,37 @@
+1. Test if list is empty (true)
+2. Print an empty list
+3. Return length of empty list
+4. Put int 4 at pos 0
+5. Put int 3 at pos 1
+6. Put int 2 at pos 2
+7. Put int 1 at pos 3
+8. Put int 2 at pos 4
+9. Test if list is empty (false)
+10. Print the non-empty list
+11. Return the length of the non-empty list
+12. Search the list for int 2 (found)
+13. Search the list for int 5 (not found)
+14. Remove the item at pos 1
+15. Print the modified list
+16. Return the length of the modified list
+17. Copy L1 to L2 and print
+18. Delete the first occurrence of int 2
+19. Print the list
+20. Reset list to empty state
+21. Push int 9 to the top of the stack
+22. Push int 8 to the top of the stack 
+23. Push int 7 to the top of the stack
+24. Print the stack
+25. Return the top of the stack
+26. Pop the stack
+27. Pop the stack
+28. Print the stack
+29. Destroy the stack
+30. Add int 10 to the queue
+31. Add int 6 to the queue
+32. Add int 5 to the queue
+33. Print the queue
+34. Return the front of the queue
+35. Delete an item from the queue
+36. Print the queue
+37. Quit the program
